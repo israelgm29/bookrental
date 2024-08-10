@@ -1,0 +1,15 @@
+body {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+.reproductor{
+    width: 620px;
+    height: 390px;
+}
+.viewtrailer{
+    min-height: 700px;
+    background-size: cover;
+    background-position:center;
+
+    display: flex;
+    align-items: flex-end;
+}
